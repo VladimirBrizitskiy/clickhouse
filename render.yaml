@@ -6,4 +6,4 @@ services:
     disk:
       name: data
       mountPath: /var/lib/clickhouse
-      sizeGB: 5
+      sizeGB: 1
